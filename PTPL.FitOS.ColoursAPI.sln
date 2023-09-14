@@ -1,0 +1,54 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PTPL.FitOS.ColoursAPI", "PTPL.FitOS.ColoursAPI\PTPL.FitOS.ColoursAPI.csproj", "{B4A6196F-F044-4267-8FE4-CCF0DF1704D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PTPL.FitOS.DataContext", "PTPL.FitOS.DataContext\PTPL.FitOS.DataContext.csproj", "{5A0E797C-6297-4174-88A8-DC8764EE3C6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PTPL.FitOS.DataModels", "PTPL.FitOS.DataModels\PTPL.FitOS.DataModels.csproj", "{82E2269A-0BD9-428C-A873-12E34624E4BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PTPL.FitOS.Services", "PTPL.FitOS.Services\PTPL.FitOS.Services.csproj", "{66D679AA-5A90-406F-A9AE-DEC3FE6D93A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PTPL.FitOS.Common", "PTPL.FitOS.Common\PTPL.FitOS.Common\PTPL.FitOS.Common.csproj", "{5847AD75-D5D5-4543-AD91-D955049CC421}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PTPL.FitOS.SwaggerUI", "PTPL.FitOS.SwaggerUI\PTPL.FitOS.SwaggerUI\PTPL.FitOS.SwaggerUI.csproj", "{F1825525-4E32-44D0-B29E-2B64407F57B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A6196F-F044-4267-8FE4-CCF0DF1704D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A6196F-F044-4267-8FE4-CCF0DF1704D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A6196F-F044-4267-8FE4-CCF0DF1704D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A6196F-F044-4267-8FE4-CCF0DF1704D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0E797C-6297-4174-88A8-DC8764EE3C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0E797C-6297-4174-88A8-DC8764EE3C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0E797C-6297-4174-88A8-DC8764EE3C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0E797C-6297-4174-88A8-DC8764EE3C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E2269A-0BD9-428C-A873-12E34624E4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E2269A-0BD9-428C-A873-12E34624E4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E2269A-0BD9-428C-A873-12E34624E4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E2269A-0BD9-428C-A873-12E34624E4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D679AA-5A90-406F-A9AE-DEC3FE6D93A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D679AA-5A90-406F-A9AE-DEC3FE6D93A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D679AA-5A90-406F-A9AE-DEC3FE6D93A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D679AA-5A90-406F-A9AE-DEC3FE6D93A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5847AD75-D5D5-4543-AD91-D955049CC421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5847AD75-D5D5-4543-AD91-D955049CC421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5847AD75-D5D5-4543-AD91-D955049CC421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5847AD75-D5D5-4543-AD91-D955049CC421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1825525-4E32-44D0-B29E-2B64407F57B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1825525-4E32-44D0-B29E-2B64407F57B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1825525-4E32-44D0-B29E-2B64407F57B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1825525-4E32-44D0-B29E-2B64407F57B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A54611-B96F-4C1C-977E-7C1F2D5E06F8}
+	EndGlobalSection
+EndGlobal

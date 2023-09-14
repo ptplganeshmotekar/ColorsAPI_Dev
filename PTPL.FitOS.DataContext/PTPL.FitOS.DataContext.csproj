@@ -1,0 +1,96 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200722102210_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200722102210_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200722103857_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200722103857_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200722104340_InitialMigration.cs" />
+    <Compile Remove="Migrations\20200722104340_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20200728085837_FavouritesAPIs.cs" />
+    <Compile Remove="Migrations\20200728085837_FavouritesAPIs.Designer.cs" />
+    <Compile Remove="Migrations\20200729102833_ClassificationDTO.cs" />
+    <Compile Remove="Migrations\20200729102833_ClassificationDTO.Designer.cs" />
+    <Compile Remove="Migrations\20200729103233_ClassificationDTO.cs" />
+    <Compile Remove="Migrations\20200729103233_ClassificationDTO.Designer.cs" />
+    <Compile Remove="Migrations\20200729103404_ClassificationDTO.cs" />
+    <Compile Remove="Migrations\20200729103404_ClassificationDTO.Designer.cs" />
+    <Compile Remove="Migrations\20200729105810_ClassificationDTO.cs" />
+    <Compile Remove="Migrations\20200729105810_ClassificationDTO.Designer.cs" />
+    <Compile Remove="Migrations\20200804082407_AddClassifications.cs" />
+    <Compile Remove="Migrations\20200804082407_AddClassifications.Designer.cs" />
+    <Compile Remove="Migrations\20200804124449_SequenceDTO.cs" />
+    <Compile Remove="Migrations\20200804124449_SequenceDTO.Designer.cs" />
+    <Compile Remove="Migrations\20200804124559_SequenceDTO.cs" />
+    <Compile Remove="Migrations\20200804124559_SequenceDTO.Designer.cs" />
+    <Compile Remove="Migrations\20200819064538_Udpate_RefernceEntity.cs" />
+    <Compile Remove="Migrations\20200819064538_Udpate_RefernceEntity.Designer.cs" />
+    <Compile Remove="Migrations\20200819115734_AddModuleList.cs" />
+    <Compile Remove="Migrations\20200819115734_AddModuleList.Designer.cs" />
+    <Compile Remove="Migrations\20200917114759_Adding_Material_LibraryDTO.cs" />
+    <Compile Remove="Migrations\20200917114759_Adding_Material_LibraryDTO.Designer.cs" />
+    <Compile Remove="Migrations\20200923083352_supplierDTO_DateTime_Change.cs" />
+    <Compile Remove="Migrations\20200923083352_supplierDTO_DateTime_Change.Designer.cs" />
+    <Compile Remove="Migrations\20200924075245_AddningContactAndSupplierContactTables.cs" />
+    <Compile Remove="Migrations\20200924075245_AddningContactAndSupplierContactTables.Designer.cs" />
+    <Compile Remove="Migrations\20201005082655_MaterialDTOChange.cs" />
+    <Compile Remove="Migrations\20201005082655_MaterialDTOChange.Designer.cs" />
+    <Compile Remove="Migrations\20201007073240_ChangesInColourDocument.cs" />
+    <Compile Remove="Migrations\20201007073240_ChangesInColourDocument.Designer.cs" />
+    <Compile Remove="Migrations\20201007094354_ChangesDataContext2.cs" />
+    <Compile Remove="Migrations\20201007094354_ChangesDataContext2.Designer.cs" />
+    <Compile Remove="Migrations\20201007094519_ChangesDataContext2.cs" />
+    <Compile Remove="Migrations\20201007094519_ChangesDataContext2.Designer.cs" />
+    <Compile Remove="Migrations\20201013074819_Test.cs" />
+    <Compile Remove="Migrations\20201013074819_Test.Designer.cs" />
+    <Compile Remove="Migrations\20201020080427_RemovedColourinMat_SupplierRelationshipAndAddedSupplierColourTable.cs" />
+    <Compile Remove="Migrations\20201020080427_RemovedColourinMat_SupplierRelationshipAndAddedSupplierColourTable.Designer.cs" />
+    <Compile Remove="Migrations\20201020080754_RemovedColourinMat_SupplierRelationshipAndAddedSupplierColourTable.cs" />
+    <Compile Remove="Migrations\20201020080754_RemovedColourinMat_SupplierRelationshipAndAddedSupplierColourTable.Designer.cs" />
+    <Compile Remove="Migrations\20201020080956_RemovedColourinMat_SupplierRelationshipAndAddedSupplierColourTable.cs" />
+    <Compile Remove="Migrations\20201020080956_RemovedColourinMat_SupplierRelationshipAndAddedSupplierColourTable.Designer.cs" />
+    <Compile Remove="Migrations\20201020130334_AddedSupplierColourTable.cs" />
+    <Compile Remove="Migrations\20201020130334_AddedSupplierColourTable.Designer.cs" />
+    <Compile Remove="Migrations\20201020131224_DeletedTheSeamAndStiches.cs" />
+    <Compile Remove="Migrations\20201020131224_DeletedTheSeamAndStiches.Designer.cs" />
+    <Compile Remove="Migrations\20201020135632_TestChanges.cs" />
+    <Compile Remove="Migrations\20201020135632_TestChanges.Designer.cs" />
+    <Compile Remove="Migrations\20201111100110_AddingPaletteDTOandRelations.cs" />
+    <Compile Remove="Migrations\20201111100110_AddingPaletteDTOandRelations.Designer.cs" />
+    <Compile Remove="Migrations\20201222075629_Test.cs" />
+    <Compile Remove="Migrations\20201222075629_Test.Designer.cs" />
+    <Compile Remove="Migrations\20201222083334_AddingUserPortfolios.cs" />
+    <Compile Remove="Migrations\20201222083334_AddingUserPortfolios.Designer.cs" />
+    <Compile Remove="Migrations\20210127135943_AddingStylePomsAndStitches.cs" />
+    <Compile Remove="Migrations\20210127135943_AddingStylePomsAndStitches.Designer.cs" />
+    <Compile Remove="Migrations\20210202093022_AddingStyleImageRelationship.cs" />
+    <Compile Remove="Migrations\20210202093022_AddingStyleImageRelationship.Designer.cs" />
+    <Compile Remove="Migrations\20210202121657_RenamingTables.cs" />
+    <Compile Remove="Migrations\20210202121657_RenamingTables.Designer.cs" />
+    <Compile Remove="Migrations\20210202122010_RenamingTables.cs" />
+    <Compile Remove="Migrations\20210202122010_RenamingTables.Designer.cs" />
+    <Compile Remove="Migrations\20210202122343_CreatingNewStyleTables.cs" />
+    <Compile Remove="Migrations\20210202122343_CreatingNewStyleTables.Designer.cs" />
+    <Compile Remove="Migrations\20210202122539_ModificationInStyletablenames.cs" />
+    <Compile Remove="Migrations\20210202122539_ModificationInStyletablenames.Designer.cs" />
+    <Compile Remove="Migrations\GetDataDB\20200729103556_ClassificationDTO.cs" />
+    <Compile Remove="Migrations\GetDataDB\20200729103556_ClassificationDTO.Designer.cs" />
+    <Compile Remove="Migrations\GetDataDB\20200729103747_ClassificationDTO.cs" />
+    <Compile Remove="Migrations\GetDataDB\20200729103747_ClassificationDTO.Designer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.6" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="MySqlConnector" Version="2.2.0" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PTPL.FitOS.DataModels\PTPL.FitOS.DataModels.csproj" />
+  </ItemGroup>
+
+</Project>

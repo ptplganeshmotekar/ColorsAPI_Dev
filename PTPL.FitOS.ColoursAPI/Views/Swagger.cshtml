@@ -1,0 +1,58 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FITOS API Documentation</title>
+    <link rel="stylesheet" type="text/css" href="~/dist/swagger-ui.css">
+    <link rel="icon" type="image/png" href="~/dist/favicon-32x32.png" limits="32x32" />
+    <link rel="icon" type="image/png" href="~/dist/favicon-16x16.png" limits="16x16" />
+    <style>
+        html {
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+            overflow: -moz-scrollbars-vertical;
+            overflow-y: scroll;
+        }
+
+        *,
+        *:before,
+        *:after {
+            -moz-box-sizing: inherit;
+            box-sizing: inherit;
+        }
+
+        body {
+            margin: 0;
+            background: #fafafa;
+        }
+    </style>
+</head>
+<body>
+    <div id="swagger-ui"></div>
+    <script src="~/dist/swagger-ui-bundle.js"></script>
+    <script src="~/dist/swagger-ui-standalone-preset.js"></script>
+<script>
+
+    window.onload = function() {
+
+        // Build a system
+        const ui = window.SwaggerUIBundle({
+            url: 'swagger/v1/swagger.json',
+            dom_id: '#swagger-ui',
+            deepLinking: true,
+            presets: [
+                window.SwaggerUIBundle.presets.apis,
+                window.SwaggerUIStandalonePreset
+            ],
+            plugins: [
+                window.SwaggerUIBundle.plugins.DownloadUrl
+            ],
+            layout: "StandaloneLayout"
+        });
+
+        window.ui = ui;
+    }
+</script>
+</body>
+</html>

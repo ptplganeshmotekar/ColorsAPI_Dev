@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Below class, objects are for a data-model relationship">
+    <Position X="0.66" Y="0.932" Height="0.308" Width="5.142" />
+  </Comment>
+  <Comment CommentText="The below class is for common methods and declarations">
+    <Position X="7.382" Y="0.912" Height="0.3" Width="3.528" />
+  </Comment>
+  <Comment CommentText="The below class is for controller Endpoints methods implementations">
+    <Position X="12.477" Y="0.932" Height="0.4" Width="4.272" />
+  </Comment>
+  <Comment CommentText="The below class is for service methods and its declarations">
+    <Position X="0.59" Y="10.91" Height="0.333" Width="3.528" />
+  </Comment>
+  <Class Name="PTPL.FitOS.DataModels.AdvancedSearchEntity">
+    <Position X="2.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PTPL.FitOS.DataModels.BaseEntity">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PTPL.FitOS.DataModels.ReferenceEntity">
+    <Position X="5" Y="1.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PTPL.FitOS.DataModels.ColourDocumentDTO">
+    <Position X="3.75" Y="5.75" Width="2" />
+    <InheritanceLine Type="PTPL.FitOS.DataModels.BaseEntity" ManuallyRouted="true">
+      <Path>
+        <Point X="1.25" Y="4.978" />
+        <Point X="1.25" Y="5.176" />
+        <Point X="4.75" Y="5.176" />
+        <Point X="4.75" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PTPL.FitOS.DataModels.ColoursDTO">
+    <Position X="0.5" Y="5.75" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PTPL.FitOS.DataModels.SequenceDTO">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="PTPL.FitOS.DataModels.BaseEntity" ManuallyRouted="true">
+      <Path>
+        <Point X="1.25" Y="4.978" />
+        <Point X="1.25" Y="4.183" />
+        <Point X="0.85" Y="4.183" />
+        <Point X="0.85" Y="5.398" />
+        <Point X="4.667" Y="5.398" Type="JumpStart" />
+        <Point X="4.833" Y="5.398" Type="JumpEnd" />
+        <Point X="6.75" Y="5.398" />
+        <Point X="6.75" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PTPL.FitOS.DataModels.FavouritesDTO">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="PTPL.FitOS.DataModels.BaseEntity" ManuallyRouted="true">
+      <Path>
+        <Point X="1.25" Y="4.978" />
+        <Point X="1.25" Y="4.132" />
+        <Point X="2.311" Y="4.132" />
+        <Point X="2.311" Y="5.1" />
+        <Point X="8.5" Y="5.1" />
+        <Point X="8.5" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PTPL.FitOS.Services.ColourDocumentService" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="14.75" Width="2.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PTPL.FitOS.Services.ColourServices" BaseTypeListCollapsed="true">
+    <Position X="3" Y="14.75" Width="2.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PTPL.FitOS.Services.DocumentProvider">
+    <Position X="5.75" Y="13.75" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PTPL.FitOS.Services.FileProvider">
+    <Position X="8" Y="13.75" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PTPL.FitOS.Services.MaterialProvider">
+    <Position X="10" Y="13.75" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PTPL.FitOS.Services.PermissionProvider">
+    <Position X="12.25" Y="13.75" Width="1.75" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PTPL.FitOS.Services.StyleProvider">
+    <Position X="14.25" Y="13.75" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PTPL.FitOS.Services.SupplierProvider">
+    <Position X="16.5" Y="13.75" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PTPL.FitOS.Common">
+    <Position X="7.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PTPL.FitOS.CommonDeclarations">
+    <Position X="9.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="PTPL.FitOS.LibraryAPI.Controllers.ColourDocumentController">
+    <Position X="15.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAEAASAAIAAAAEAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\Colours\ColourDocumentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PTPL.FitOS.LibraryAPI.Controllers.ColoursController">
+    <Position X="11.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AhAAAAMEAAAAAAAAAAABAAAAQAAAgAAAAQEACCAAAAA=</HashCode>
+      <FileName>Controllers\Colours\ColoursController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.AspNetCore.Mvc.ControllerBase" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="PTPL.FitOS.Services.IColourDocumentService">
+    <Position X="0.5" Y="11.5" Width="2.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="PTPL.FitOS.Services.IColourServices">
+    <Position X="3" Y="11.5" Width="2.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="PTPL.FitOS.Services.IDocumentInterface">
+    <Position X="5.75" Y="11.5" Width="2" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="PTPL.FitOS.Services.IFileInterface">
+    <Position X="8" Y="11.5" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="PTPL.FitOS.Services.IMaterialInterface">
+    <Position X="10" Y="11.5" Width="2" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="PTPL.FitOS.Services.IPermissionInterface">
+    <Position X="12.25" Y="11.5" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="PTPL.FitOS.Services.IStyleInterface">
+    <Position X="14.25" Y="11.5" Width="2" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="PTPL.FitOS.Services.ISupplierInterface">
+    <Position X="16.5" Y="11.5" Width="2" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
