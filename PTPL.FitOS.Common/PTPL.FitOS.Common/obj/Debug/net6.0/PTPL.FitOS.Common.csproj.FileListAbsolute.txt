@@ -1,0 +1,15 @@
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\bin\Debug\net6.0\PTPL.FitOS.Common.deps.json
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\bin\Debug\net6.0\PTPL.FitOS.Common.dll
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\bin\Debug\net6.0\PTPL.FitOS.Common.pdb
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\bin\Debug\net6.0\PTPL.FitOS.DataModels.dll
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\bin\Debug\net6.0\PTPL.FitOS.DataModels.pdb
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\obj\Debug\net6.0\PTPL.FitOS.Common.csproj.AssemblyReference.cache
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\obj\Debug\net6.0\PTPL.FitOS.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\obj\Debug\net6.0\PTPL.FitOS.Common.AssemblyInfoInputs.cache
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\obj\Debug\net6.0\PTPL.FitOS.Common.AssemblyInfo.cs
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\obj\Debug\net6.0\PTPL.FitOS.Common.csproj.CoreCompileInputs.cache
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\obj\Debug\net6.0\PTPL.FitOS.Common.csproj.CopyComplete
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\obj\Debug\net6.0\PTPL.FitOS.Common.dll
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\obj\Debug\net6.0\refint\PTPL.FitOS.Common.dll
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\obj\Debug\net6.0\PTPL.FitOS.Common.pdb
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.Common\PTPL.FitOS.Common\obj\Debug\net6.0\ref\PTPL.FitOS.Common.dll

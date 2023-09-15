@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PTPL.FitOS.ColoursAPI.props" />
+</Project>

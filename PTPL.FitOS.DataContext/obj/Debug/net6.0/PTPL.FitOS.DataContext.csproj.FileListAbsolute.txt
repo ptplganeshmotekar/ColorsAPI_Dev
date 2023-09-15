@@ -1,0 +1,15 @@
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\bin\Debug\net6.0\PTPL.FitOS.DataContext.deps.json
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\bin\Debug\net6.0\PTPL.FitOS.DataContext.dll
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\bin\Debug\net6.0\PTPL.FitOS.DataContext.pdb
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\bin\Debug\net6.0\PTPL.FitOS.DataModels.dll
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\bin\Debug\net6.0\PTPL.FitOS.DataModels.pdb
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\obj\Debug\net6.0\PTPL.FitOS.DataContext.csproj.AssemblyReference.cache
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\obj\Debug\net6.0\PTPL.FitOS.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\obj\Debug\net6.0\PTPL.FitOS.DataContext.AssemblyInfoInputs.cache
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\obj\Debug\net6.0\PTPL.FitOS.DataContext.AssemblyInfo.cs
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\obj\Debug\net6.0\PTPL.FitOS.DataContext.csproj.CoreCompileInputs.cache
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\obj\Debug\net6.0\PTPL.FitOS.DataContext.csproj.CopyComplete
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\obj\Debug\net6.0\PTPL.FitOS.DataContext.dll
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\obj\Debug\net6.0\refint\PTPL.FitOS.DataContext.dll
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\obj\Debug\net6.0\PTPL.FitOS.DataContext.pdb
+D:\Software Products\FitOS_2.0\Fitos2.0_Devops\PTPL.FitOS.ColoursAPI\PTPL.FitOS.DataContext\obj\Debug\net6.0\ref\PTPL.FitOS.DataContext.dll

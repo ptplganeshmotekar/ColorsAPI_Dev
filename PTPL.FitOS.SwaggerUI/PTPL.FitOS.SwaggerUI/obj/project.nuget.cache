@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Si2ep4bnXAx3+/FhDtQ0HutClJET1d+FsCWhtX39/wG80ANifttZGI+fBpieRqPGLyhatxd76/iWrRNScxEOiw==",
+  "dgSpecHash": "xMfALe7jnMUwxWckRVMlN2PiJQRxMMCNRcoVFhGC86AEvJo5SO3JC0LhN9LmuCBgeH5av49k4Qhto2yR1CabNA==",
   "success": true,
-  "projectFilePath": "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.SwaggerUI\\PTPL.FitOS.SwaggerUI\\PTPL.FitOS.SwaggerUI.csproj",
+  "projectFilePath": "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.SwaggerUI\\PTPL.FitOS.SwaggerUI\\PTPL.FitOS.SwaggerUI.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\GaneshMotekar\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
-    "C:\\Users\\GaneshMotekar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
-    "C:\\Users\\GaneshMotekar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
-    "C:\\Users\\GaneshMotekar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.4.1\\swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512"
+    "C:\\Users\\GaneshMotekar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GaneshMotekar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\GaneshMotekar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\GaneshMotekar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
   ],
   "logs": []
 }

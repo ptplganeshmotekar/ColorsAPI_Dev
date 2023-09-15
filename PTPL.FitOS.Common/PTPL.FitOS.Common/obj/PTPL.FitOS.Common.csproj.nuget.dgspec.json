@@ -1,35 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.Common\\PTPL.FitOS.Common\\PTPL.FitOS.Common.csproj": {}
+    "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.Common\\PTPL.FitOS.Common\\PTPL.FitOS.Common.csproj": {}
   },
   "projects": {
-    "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.Common\\PTPL.FitOS.Common\\PTPL.FitOS.Common.csproj": {
+    "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.Common\\PTPL.FitOS.Common\\PTPL.FitOS.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.Common\\PTPL.FitOS.Common\\PTPL.FitOS.Common.csproj",
+        "projectUniqueName": "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.Common\\PTPL.FitOS.Common\\PTPL.FitOS.Common.csproj",
         "projectName": "PTPL.FitOS.Common",
-        "projectPath": "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.Common\\PTPL.FitOS.Common\\PTPL.FitOS.Common.csproj",
+        "projectPath": "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.Common\\PTPL.FitOS.Common\\PTPL.FitOS.Common.csproj",
         "packagesPath": "C:\\Users\\GaneshMotekar\\.nuget\\packages\\",
-        "outputPath": "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.Common\\PTPL.FitOS.Common\\obj\\",
+        "outputPath": "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.Common\\PTPL.FitOS.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GaneshMotekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\PTPL.FitOS.DataModels.csproj": {
-                "projectPath": "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\PTPL.FitOS.DataModels.csproj"
+              "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\PTPL.FitOS.DataModels.csproj": {
+                "projectPath": "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\PTPL.FitOS.DataModels.csproj"
               }
             }
           }
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AWS.Logger.NLog": {
               "target": "Package",
@@ -54,19 +54,19 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[6.0.6, )"
             },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.Http": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[3.1.1, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -89,29 +89,29 @@
         }
       }
     },
-    "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\PTPL.FitOS.DataModels.csproj": {
+    "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\PTPL.FitOS.DataModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\PTPL.FitOS.DataModels.csproj",
+        "projectUniqueName": "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\PTPL.FitOS.DataModels.csproj",
         "projectName": "PTPL.FitOS.DataModels",
-        "projectPath": "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\PTPL.FitOS.DataModels.csproj",
+        "projectPath": "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\PTPL.FitOS.DataModels.csproj",
         "packagesPath": "C:\\Users\\GaneshMotekar\\.nuget\\packages\\",
-        "outputPath": "D:\\Software Products\\FitOS_2.0\\FITOS2.0_DotNetCoreService\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\obj\\",
+        "outputPath": "D:\\Software Products\\FitOS_2.0\\Fitos2.0_Devops\\PTPL.FitOS.ColoursAPI\\PTPL.FitOS.DataModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GaneshMotekar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -122,28 +122,32 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[6.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[6.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[6.0.6, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.20.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.3, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
